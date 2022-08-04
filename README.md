@@ -5,7 +5,7 @@
 - 🔭 I just developed a PWA!
 - 🌱 I’m currently working on MERN / DAPPs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Explore blockchain in deep
+- 🥅 2022 Goals: Explore blockchain in deep
 - ⚡ Fun fact: I love to play football / guitar and cycling
 
 ### Connect with me:
