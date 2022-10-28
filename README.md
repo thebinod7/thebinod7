@@ -2,7 +2,8 @@
 
 ## I'm a Software Engineer, Learner, Teacher!!
 
-- 🔭 I just developed a PWA!
+- 🔭 Just developed a chrome extension!
+- 🔭 Developed a PWA
 - 🌱 I’m currently working on MERN / DAPPs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Explore blockchain in deep
