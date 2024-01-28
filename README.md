@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebinod7" alt="thebinod7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thebinod7" target="blank"><img src="https://img.shields.io/twitter/follow/thebinod7?logo=twitter&style=for-the-badge" alt="thebinod7" /></a> </p>
-
 - 🔭 I’m currently working on **Postgres, NestJS and Prisma**
 
 - 🌱 I’m currently learning **Blockchain**
