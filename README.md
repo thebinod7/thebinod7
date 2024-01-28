@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebinod7&label=Profile%20views&color=0e75b6&style=flat" alt="thebinod7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebinod7" alt="thebinod7" /></a> </p>
-
 - 🔭 I’m currently working on **Postgres, NestJS and Prisma**
 
 - 🌱 I’m currently learning **Blockchain**
@@ -17,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/binod-chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binod-chaudhary/" height="30" width="40" /></a>
+<a href="https://twitter.com/thebinod7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thebinod7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/binod-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binod-chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/binod.rm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binod.rm7" height="30" width="40" /></a>
 </p>
 
