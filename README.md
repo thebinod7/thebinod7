@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebinod7" alt="thebinod7" /></a> </p>
 
-- 🔭 I’m currently working on **Postgres, NestJS and Prisma**
+- 🔭 I’m currently working on **Postgres, Docker and MERN**
 
 - 🌱 I’m currently learning **Blockchain**
 
